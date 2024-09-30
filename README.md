@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jkevin1994
+- 👀 I’m interested in python, c# and Java.
+- 🌱 I’m currently learning those 3 languages to help me in the coding world.
+- 💞️ I’m looking to collaborate on experts to those 3 languages
+- 📫 You can reach me on my linkedIn: linkedin.com/in/john-kevin-arcilla
